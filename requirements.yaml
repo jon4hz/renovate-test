@@ -2,7 +2,7 @@
 collections:
   - name: community.general
     version: 3.0.0
-    source: https://hub.mydomain.com/api/galaxy/content/community/
+    #  source: https://hub.mydomain.com/api/galaxy/content/community/
   - name: ansible.posix
     version: 1.0.0
-    source: https://hub.mydomain.com/api/galaxy/content/community/
+    #  source: https://hub.mydomain.com/api/galaxy/content/community/
