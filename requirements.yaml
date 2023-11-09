@@ -5,3 +5,4 @@ collections:
     source: https://hub.mydomain.com/api/galaxy/content/community/
   - name: ansible.posix
     version: 1.0.0
+    source: https://hub.mydomain.com/api/galaxy/content/community/
