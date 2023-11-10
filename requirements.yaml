@@ -4,5 +4,5 @@ collections:
     version: 3.0.0
     #  source: https://hub.mydomain.com/api/galaxy/content/community/
   - name: ansible.posix
-    version: 1.0.0
+    version: 1.5.4
     #  source: https://hub.mydomain.com/api/galaxy/content/community/
